@@ -2,7 +2,7 @@
     "verbose": true,
     "testRegex": "test\/.*\\.spec\\.jsx?$",
     "testEnvironment": "jsdom",
-    "modulePaths": ["<rootDir>/src"],
+    "modulePaths": ["<rootDir>/src/"],
     "transformIgnorePatterns": ["[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"],
     "moduleFileExtensions": ["js", "jsx", "json", "es6"],
     "transform": {

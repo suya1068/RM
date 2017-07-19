@@ -4,7 +4,7 @@
   "description": "core utils",
   "main": "dist/rm-core.js",
   "scripts": {
-    "test": "yarn run lint && jest",
+    "test": "yarn run lint && jest --config jest.config.json",
     "test:unit": "yarn test -- --watch",
     "test:cover": "yarn test -- --coverage",
     "lint": "eslint src test"

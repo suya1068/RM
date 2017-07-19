@@ -8,12 +8,10 @@
 06. isFloat
 07. isArray
 08. isObject
+
 09. isFunction
 10. isDate
 11. isRegExp
 12. isMap
 13. isSet
 14. isSymbol
-15. isGenerator
-16. isElementNode
-17. isTextNode
