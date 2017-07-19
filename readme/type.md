@@ -6,12 +6,13 @@
 04. isNumber
 05. isInteger
 06. isFloat
-07. isArray
-08. isObject
+07. isBoolean
+08. isArray
+09. isObject
 
-09. isFunction
-10. isDate
-11. isRegExp
-12. isMap
-13. isSet
-14. isSymbol
+10. isFunction
+11. isDate
+12. isRegExp
+13. isMap
+14. isSet
+15. isSymbol
