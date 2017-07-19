@@ -1,0 +1,19 @@
+# Type
+
+01. isNull
+02. isUndefined
+03. isString
+04. isNumber
+05. isInteger
+06. isFloat
+07. isArray
+08. isObject
+09. isFunction
+10. isDate
+11. isRegExp
+12. isMap
+13. isSet
+14. isSymbol
+15. isGenerator
+16. isElementNode
+17. isTextNode
