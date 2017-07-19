@@ -1,6 +1,6 @@
 import { JSDOM } from 'jsdom';
 
-const documentHTML = '<!doctype html><html><body><div id="root"></div></body></html>';
+const documentHTML = '<!doctype html><html lang="ko"><body></body></html>';
 const jsdom = new JSDOM(documentHTML);
 const { window } = jsdom;
 
